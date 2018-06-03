@@ -8,7 +8,12 @@ If your learning algorithm is too slow because the input dimension is too high, 
 
 Another common application of PCA is for data visualization.
 
+'''
+		 Iris dataset used in this part of the code is 4 dimensional. 
+		 here used PCA to reduce that 4 dimensional data into 2 or 3 dimensions 
+		 so that data can plot and hopefully understand the data better.
 
+'''
 https://en.wikipedia.org/wiki/Principal_component_analysis
 
 

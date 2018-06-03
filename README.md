@@ -7,3 +7,7 @@ new data to project it on these components.
 If your learning algorithm is too slow because the input dimension is too high, then using PCA to speed it up can be a reasonable choice. This is probably the most common application of PCA. 
 
 Another common application of PCA is for data visualization.
+
+
+https://en.wikipedia.org/wiki/Principal_component_analysis
+http://scikit-learn.org/stable/modules/decomposition.html#pca

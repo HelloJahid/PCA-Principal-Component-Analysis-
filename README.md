@@ -10,4 +10,6 @@ Another common application of PCA is for data visualization.
 
 
 https://en.wikipedia.org/wiki/Principal_component_analysis
+
+
 http://scikit-learn.org/stable/modules/decomposition.html#pca

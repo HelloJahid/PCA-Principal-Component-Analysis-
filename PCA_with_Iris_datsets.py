@@ -1,3 +1,10 @@
+'''
+		 Iris dataset used in this part of the code is 4 dimensional. 
+		 Here used PCA to reduce that 4 dimensional data into 2 dimensions 
+		 and plot the data and hopefully understand the data better.
+
+'''
+
 # Import required module
 from sklearn.datasets import load_iris
 from sklearn.preprocessing import StandardScaler
